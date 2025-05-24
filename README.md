@@ -1,3 +1,5 @@
+<img src="https://github.com/lucasosses/lucasosses/blob/1f9c65bc0836c37d3cf7e60e9185288656b24a7a/banner.png">
+
 <h1 align="center">Hi there 👋, I'm Lucas Osses</h1>
 
 <p align="center">
