@@ -45,9 +45,8 @@ Atualmente, combino minha experiência prática em QA com estudos voltados à Ad
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [linkedin.com/in/lucasosses](https://www.linkedin.com/in/lucasosses) *(atualize se tiver link real)*
-- E-mail: seu-email@email.com *(coloque seu e-mail aqui)*
-- GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
+- LinkedIn: www.linkedin.com/in/lucas-osses-do-prado-8157b9194
+- E-mail: lucasosses.qa@gmail.com
 
 ---
 
