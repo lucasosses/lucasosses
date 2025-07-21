@@ -1,48 +1,55 @@
-<img src="https://github.com/lucasosses/lucasosses/blob/1f9c65bc0836c37d3cf7e60e9185288656b24a7a/banner.png">
+# 👋 Olá, eu sou o Lucas Osses
 
-<h1 align="center">Hi there 👋, I'm Lucas Osses</h1>
-
-<p align="center">
-  💻 QA enthusiast • 🎲 RPG lover • ₿ Bitcoin believer
-</p>
+🎯 Engenheiro de Qualidade | Gestor de Automações | Administrador Salesforce em formação  
+📍 Brasil | 💼 Transição de carreira com foco em tecnologia e produtividade  
+👨‍👧‍👦 Pai de três, apaixonado por soluções práticas e resultados reais
 
 ---
 
-### 🚀 About Me
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on personal automation testing projects
-- 🌱 I’m learning **Cypress**, **JavaScript**, and **software testing fundamentals**
-- 📊 Future goal: Become a **Data Analyst** with strong QA foundations
-- 👨‍👩‍👧‍👦 Full-time dad of 3, lifelong learner, and tech career switcher
-- 💬 Ask me about **automated tests**, **QA tools**, or **Bitcoin self-custody**
+Sou um profissional em transição de carreira com forte base em Testes de Software, Automação e interesse crescente na plataforma Salesforce. Estou sempre buscando formas de tornar processos mais eficientes, com foco em entrega de valor e evolução contínua.
+
+Atualmente, combino minha experiência prática em QA com estudos voltados à Administração Salesforce, incluindo automação de testes com ferramentas como **Cypress**, **Appium** e integração com **CI/CD**.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Habilidades Técnicas
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Cypress](https://img.shields.io/badge/-Cypress-333?style=flat&logo=cypress)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-![Faker](https://img.shields.io/badge/-Faker-333?style=flat&logo=data)
+### Qualidade e Testes
+- ✅ Testes Manuais e Exploratório
+- ✅ Planejamento de Casos de Teste
+- ✅ Testes de API com Postman
+- ✅ Automação de testes com **Cypress** e **Appium**
+- ✅ Integração com ferramentas de CI/CD como GitHub Actions e Jenkins
 
----
+### Automação e Gestão
+- ⚙️ Criação e manutenção de pipelines de automação
+- ⚙️ Automatização de fluxos e rotinas com foco em produtividade
+- ⚙️ Organização de suites de testes por prioridade de entrega
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasosses&show_icons=true&theme=github_dark&hide_title=true&hide=stars"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasosses&layout=compact&theme=github_dark"/>
-</p>
-
----
-
-### 📫 How to reach me
-
-- LinkedIn: [Lucas Osses do Prado](www.linkedin.com/in/lucas-osses-do-prado-8157b9194)
-- Email: [lucasosses.qa@gmail.com](lucasosses.qa@gmail.com)
+### Salesforce (em formação)
+- 🧩 Compreensão dos conceitos de CRM
+- 🧩 Prática com objetos, campos e automações no Salesforce
+- 🧩 Estudando para a certificação **Salesforce Administrator (ADM-201)**
 
 ---
 
-_“Evoluir é um processo contínuo. Cada bug resolvido é uma vitória no caminho.”_
+## 📚 Projetos em destaque
+- Em breve, aqui você encontrará projetos práticos em:
+  - 🔹 Testes automatizados com cobertura de interface e API
+  - 🔹 Automatização de tarefas repetitivas com scripts e ferramentas open source
+  - 🔹 Casos de uso práticos no Salesforce
+
+---
+
+## 📫 Como me encontrar
+
+- LinkedIn: [linkedin.com/in/lucasosses](https://www.linkedin.com/in/lucasosses) *(atualize se tiver link real)*
+- E-mail: seu-email@email.com *(coloque seu e-mail aqui)*
+- GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
+
+---
+
+💡 *Estou sempre aberto a colaborações, projetos e networking. Sinta-se à vontade para entrar em contato!*
 
